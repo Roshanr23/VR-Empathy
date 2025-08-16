@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Notebook
+  - Hotdog
+  - RightDoor
+  - c
+  - z
+  - m
+  - b
+  - v
+  - n
+  - x
+  - k
+  - f
+  - j
+  - h
+  - s
+  - g
+  - d
+  - a
+  - l
+  - e
+  - y
+  - p
+  - q
+  - r
+  - o
+  - i
+  - u
+  - w
+  - t
+  - key
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - whiteboard
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
